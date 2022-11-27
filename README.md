@@ -1,7 +1,9 @@
 # DSWCodePathTechFellowAppPre-Work
 
-Explanation of Cross-Site Scripting (XSS) 
+Prompt 1: Explanation of Cross-Site Scripting (XSS) 
 
 DSWCodePathTechFellowAppPre-WorkPrompt1.mp4
 
-An Engagement Exercise!
+Prompt 2: Pod Engagement Exercise
+
+DSWCodePathTechFellowAppPre-WorkPrompt2.mp4
