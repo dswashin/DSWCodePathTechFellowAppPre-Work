@@ -1,4 +1,4 @@
-# DSWCodePathTechFellowAppPre-Work
+# DSWCodePathTechFellowAppPre-Work Interview
 
 Prompt 1: Explanation of Cross-Site Scripting (XSS) 
 
